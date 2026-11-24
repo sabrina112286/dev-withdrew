@@ -1,0 +1,8 @@
+{
+  "name": "dev-withdrew",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "viem": "^2.23.2"
+  }
+}
